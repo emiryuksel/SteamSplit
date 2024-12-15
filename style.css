@@ -1,0 +1,76 @@
+/* Genel Ayarlar */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  background-color: #dededf;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Konteyner */
+.container {
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  padding: 20px 30px;
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+
+/* Başlık */
+h1 {
+  font-size: 30px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Form Grupları */
+.form-group {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+label {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 5px;
+  display: block;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+/* Buton */
+button {
+  background-color: #0162ca;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #0047b1;
+}
+
+/* Sonuç Alanı */
+#result {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}

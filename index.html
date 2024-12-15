@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SteamSplit</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>SteamSplit</h1>
+      <form id="priceForm">
+        <div class="form-group">
+          <label for="gamePrice">Oyunun Fiyatı ($):</label>
+          <input
+            type="number"
+            id="gamePrice"
+            step="0.01"
+            placeholder="Oyunun fiyatını girin"
+            required
+          />
+        </div>
+        <div class="form-group">
+          <label for="playerCount">Kişi Sayısı:</label>
+          <input
+            type="number"
+            id="playerCount"
+            placeholder="Kişi sayısını girin"
+            required
+          />
+        </div>
+        <button type="submit">Hesapla</button>
+      </form>
+      <div id="result"></div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
