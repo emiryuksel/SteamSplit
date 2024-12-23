@@ -1,6 +1,6 @@
-# SplitSteam  
+# SteamSplit  
 
-**SplitSteam** is a lightweight tool to split Steam game costs among players. One player pays double, while others split the remaining cost equally. Results are displayed in **USD** and converted to **TRY** using a real-time exchange rate API.
+**SteamSplit** is a lightweight tool to split Steam game costs among players. One player pays double, while others split the remaining cost equally. Results are displayed in **USD** and converted to **TRY** using a real-time exchange rate API.
 
 ---
 
