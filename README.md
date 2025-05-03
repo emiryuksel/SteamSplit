@@ -4,6 +4,12 @@
 
 ---
 
+## 🚀 Live Demo
+
+> https://emiryuksel.site/projects/steamsplit
+
+---
+
 ## Features  
 
 1. **Fair Cost Splitting**: Dynamically calculates each player's share, including the double-paying player.  
