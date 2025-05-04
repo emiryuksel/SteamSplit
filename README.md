@@ -10,7 +10,7 @@
 
 ---
 
-## Features  
+## ✨ Features  
 
 1. **Fair Cost Splitting**: Dynamically calculates each player's share, including the double-paying player.  
 2. **Currency Conversion**: Automatically converts USD to TRY using the **ExchangeRate-API** for real-time rates.  
@@ -18,7 +18,7 @@
 
 ---
 
-## How It Works 
+## ⚙️ How It Works
 
 1. Enter the **game price** in USD.  
 2. Specify the **number of players**.  
