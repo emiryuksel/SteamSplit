@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-> https://emiryuksel.site/projects/steamsplit
+> https://emiryuksel.site/en/projects/steamsplit
 
 ---
 
